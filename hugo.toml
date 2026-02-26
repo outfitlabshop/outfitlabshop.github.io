@@ -1,0 +1,91 @@
+baseURL = "https://outfitlabshop.github.io/"
+languageCode = "ko-kr"
+title = "outfitlabshop 쇼핑 블로그"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+summaryLength = 35
+
+[pagination]
+pagerSize = 12
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+[minify]
+disableXML = false
+minifyOutput = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.7
+filename = "sitemap.xml"
+
+[permalinks]
+posts = "/posts/:slug/"
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+env = "production"
+description = "최신 트렌드 패션 아이템과 스타일링 팁을 제공하는 아웃핏랩 패션 쇼핑 블로그입니다. 시즌별 신상 의류, 코디 추천, 브랜드 할인 정보를 매일 업데이트합니다"
+keywords = ["패션쇼핑", "트렌드코디", "신상의류", "스타일링", "브랜드할인"]
+images = ["/images/og-default.webp"]
+
+# Search engine verification (set only when needed)
+googleSiteVerification = ""
+naverSiteVerification = ""
+bingSiteVerification = ""
+yandexSiteVerification = ""
+
+[params.homeInfoParams]
+Title = "트렌드를 입다, 아웃핏랩 패션 쇼핑 최신 코디 추천"
+Content = "오늘 뭐 입지? 고민은 아웃핏랩에서 해결하세요. 시즌별 최신 트렌드 의류부터 데일리 코디 추천, 인기 브랜드 할인 정보까지 한눈에 확인할 수 있습니다. 나에게 꼭 맞는 스타일을 찾아 매일 새로운 패션을 즐겨보세요."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 2
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
