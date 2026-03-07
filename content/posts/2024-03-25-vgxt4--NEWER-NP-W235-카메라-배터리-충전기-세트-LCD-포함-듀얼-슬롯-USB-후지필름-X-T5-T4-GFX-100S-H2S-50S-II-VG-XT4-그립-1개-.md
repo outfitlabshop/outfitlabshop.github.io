@@ -1,11 +1,10 @@
 ---
-title: "vg-xt4  [10~60대 남성추천]  NEWER NP W235 카메라 배터리 충전기 세트 LCD 포함 듀얼 슬롯 USB 후지필름 X T5 T4 GFX 100S  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'vg-xt4  [10~60대 남성추천]  NEWER NP W235 카메라 배터리 충전기 세트 LCD 포함 듀얼 슬롯 USB 후지필름 X T5 T4 GFX 100S  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-25
-slug: "vgxt4--NEWER-NP-W235-카메라-배터리-충전기-세트-LCD-포함-듀얼-슬롯-USB-후지필름-X-T5-T4-GFX-100S-H2S-50S-II-VG-XT4-그립-1개-"
-author: Moon
+slug: 'vgxt4--NEWER-NP-W235-카메라-배터리-충전기-세트-LCD-포함-듀얼-슬롯-USB-후지필름-X-T5-T4-GFX-100S-H2S-50S-II-VG-XT4-그립-1개-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, vg-xt4]
----
 
 ## vg-xt4: 사진가를 위한 강력한 툴
 
