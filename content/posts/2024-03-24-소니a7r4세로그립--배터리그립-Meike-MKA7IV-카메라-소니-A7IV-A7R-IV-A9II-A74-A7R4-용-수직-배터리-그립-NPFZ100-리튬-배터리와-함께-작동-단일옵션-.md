@@ -3,8 +3,9 @@ title: '소니a7r4세로그립  [10~60대 남성추천]  배터리그립 Meike M
 date: 2024-03-24
 slug: '소니a7r4세로그립--배터리그립-Meike-MKA7IV-카메라-소니-A7IV-A7R-IV-A9II-A74-A7R4-용-수직-배터리-그립-NPFZ100-리튬-배터리와-함께-작동-단일옵션-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 소니a7r4세로그립]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '소니a7r4세로그립']
+---
 
 **소니 a7R IV 세로 그립**
 

@@ -1,10 +1,10 @@
-﻿---
-title: "strikingthoughts:brucelee'swisdomfordailyliving  |닥터필 NMN+프테로스틸벤 고순도 99.9% 안티에이징 피로개선 60캡슐 X 3통, 3개, 60정 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'strikingthoughts:brucelee''swisdomfordailyliving  |닥터필 NMN+프테로스틸벤 고순도 99.9% 안티에이징 피로개선 60캡슐 X 3통, 3개, 60정 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-10
-slug: "strikingthoughtsbruceleeswisdomfordailyliving-닥터필-NMN프테로스틸벤-고순도-999-안티에이징-피로개선-60캡슐-X-3통-3개-60정"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, strikingthoughts:brucelee'swisdomfordailyliving]
+slug: 'strikingthoughtsbruceleeswisdomfordailyliving-닥터필-NMN프테로스틸벤-고순도-999-안티에이징-피로개선-60캡슐-X-3통-3개-60정'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'strikingthoughts:brucelee''swisdomfordailyliving']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

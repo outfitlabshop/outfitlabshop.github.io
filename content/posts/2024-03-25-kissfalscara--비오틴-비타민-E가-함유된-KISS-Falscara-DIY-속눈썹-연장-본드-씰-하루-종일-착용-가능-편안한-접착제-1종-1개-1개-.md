@@ -3,8 +3,9 @@ title: 'kissfalscara  | 비오틴 비타민 E가 함유된 KISS Falscara DIY 속
 date: 2024-03-25
 slug: 'kissfalscara--비오틴-비타민-E가-함유된-KISS-Falscara-DIY-속눈썹-연장-본드-씰-하루-종일-착용-가능-편안한-접착제-1종-1개-1개-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, kissfalscara]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'kissfalscara']
+---
 
 ## Kiss Falscara 속눈썹: 자연스럽고 볼륨감 있는 속눈썹을 위한 완벽한 해결책
 

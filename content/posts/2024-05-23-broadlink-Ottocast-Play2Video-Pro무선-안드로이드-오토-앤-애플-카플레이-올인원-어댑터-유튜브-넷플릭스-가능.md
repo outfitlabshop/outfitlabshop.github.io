@@ -1,10 +1,10 @@
-﻿---
-title: "broadlink  [30~40대 여성추천] Ottocast Play2Video Pro무선 안드로이드 오토 앤 애플 카플레이 올인원 어댑터 유튜브 넷플릭스 가능 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'broadlink  [30~40대 여성추천] Ottocast Play2Video Pro무선 안드로이드 오토 앤 애플 카플레이 올인원 어댑터 유튜브 넷플릭스 가능 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-23
-slug: "broadlink-Ottocast-Play2Video-Pro무선-안드로이드-오토-앤-애플-카플레이-올인원-어댑터-유튜브-넷플릭스-가능"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, broadlink]
+slug: 'broadlink-Ottocast-Play2Video-Pro무선-안드로이드-오토-앤-애플-카플레이-올인원-어댑터-유튜브-넷플릭스-가능'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'broadlink']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>
